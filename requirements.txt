@@ -7,7 +7,7 @@ pymannkendall==1.4.3
 python_binance==1.0.17
 ray==2.4.0
 scipy==1.11.1
-seaborn==0.12.2
+seaborn==0.13.2
 statsmodels==0.14.0
 torch==2.1.0
 tqdm==4.66.1
