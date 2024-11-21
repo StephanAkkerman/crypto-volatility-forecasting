@@ -1,7 +1,7 @@
 darts==0.24.0
 hurst==0.0.5
 matplotlib==3.7.2
-numpy==1.26.0
+numpy==1.26.3
 pandas==1.5.3
 pymannkendall==1.4.3
 python_binance==1.0.17
