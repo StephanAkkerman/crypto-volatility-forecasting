@@ -4,7 +4,7 @@ matplotlib==3.7.2
 numpy==1.26.0
 pandas==1.5.3
 pymannkendall==1.4.3
-python_binance==1.0.17
+python_binance==1.0.19
 ray==2.4.0
 scipy==1.11.1
 seaborn==0.12.2
